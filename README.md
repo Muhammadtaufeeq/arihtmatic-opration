@@ -1,2 +1,2 @@
-# arihtmatic-opration
-this is my program based on some arithmatic opration  
+# arithmetic-operation
+This is my program based on some Arithmatic opration  
